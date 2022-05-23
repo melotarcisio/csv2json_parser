@@ -1,0 +1,29 @@
+{
+  "name": "csv2json_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "npm": ">=8.3.0",
+    "node": ">=16.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melotarcisio/csv2json_parser"
+  },
+  "author": "Tarcisio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melotarcisio/csv2json_parser"
+  },
+  "homepage": "https://github.com/melotarcisio/csv2json_parser#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "lodash": "^4.17.21",
+    "npm": "^8.7.0"
+  }
+}
